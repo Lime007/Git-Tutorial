@@ -6,6 +6,7 @@ public class test {
   int sub = x - y;
   double mul = x * y;
   double div = x / y; // 테스트
+
   System.out.println(sum);
   System.out.println(sub);
   System.out.println(mul);
